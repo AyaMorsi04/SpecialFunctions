@@ -13,7 +13,6 @@ knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>"
 )
-knitr::opts_knit$set(root.dir = "C:/Users/pc/Documents/SpecialFunctions")
 ```
 
 ```{r setup}
